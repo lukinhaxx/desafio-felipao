@@ -1,5 +1,5 @@
 let nomeHeroi = 'lukinhaxx';
-let xp = [800, 1500, 2500, 4000, 5500, 7500, 8500, 9500, 10500]; // Vários valores de XP para testar
+let xp = [800, 1500, 2500, 4000, 5500, 7500, 8500, 9500, 10500]; 
 
 for (let i = 0; i < xp.length; i++) {
     let qntXp = xp[i];  
